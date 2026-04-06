@@ -1,0 +1,5 @@
+id_number,last_digit,estimated_age,has_chronic,has_severe_symptoms,final_priority_reason
+1111115,5,68,true,true,"كبر سن + أمراض مزمنة + أعراض مقلقة → أولوية عالية"
+2222223,3,70,false,false,"كبر سن فقط → أولوية لكبار السن"
+3333338,8,45,true,false,"أقل من 60 سنة لكن آخر رقم ≥5 → أولوية (منطق تجريبي)"
+4444442,2,40,false,false,"أصغر من 60 وآخر رقم <5 ولا توجد أعراض → دور عادي"
