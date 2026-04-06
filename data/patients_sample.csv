@@ -1,0 +1,11 @@
+visit_time,source,age,is_65_plus,priority,patient_code
+2026-03-31 22:08,camera,19,لا,WAITING,7890
+2026-03-31 22:04,camera,19,لا,WAITING,7890
+2026-03-31 21:19,camera,20,لا,WAITING,7890
+2026-03-31 21:19,camera,21,لا,WAITING,7890
+2026-03-31 21:12,camera,21,لا,WAITING,7890
+2026-03-28 21:11,camera,83,نعم,WAITING,7890
+2026-03-28 21:11,camera,82,نعم,WAITING,7890
+2026-03-28 21:10,camera,83,نعم,WAITING,7890
+2026-03-28 06:28,camera,78,نعم,WAITING,7890
+2026-03-28 05:07,camera,83,نعم,WAITING,7890
